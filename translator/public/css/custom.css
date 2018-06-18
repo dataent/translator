@@ -1,0 +1,34 @@
+.navbar-icon {
+	width: 30px;
+	margin-right: 10px;
+}
+
+.navbar-brand.ellipsis {
+	max-width: 300px;
+}
+
+.single-message {
+	padding: 10px 15px;
+	margin: 0px -30px;
+}
+
+.single-message:hover {
+	background-color: #fafbfc;
+}
+
+.translator-view {
+	padding: 15px 30px;
+}
+
+.slider-wrapper {
+	margin: 30px 0px;
+}
+
+.page-hero {
+/*	border-bottom: 1px solid #d1d8dd;*/
+	padding-bottom: 15px;
+}
+
+.rtl {
+  direction: rtl;
+}
